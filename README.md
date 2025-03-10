@@ -35,4 +35,3 @@ El modelo genera predicciones sobre el ataque de los Pokémon en función de su 
 
 ---
 
-© 2024 - Proyecto de Regresión Lineal con Pokémon
